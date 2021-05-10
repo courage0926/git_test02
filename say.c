@@ -1,6 +1,6 @@
 #include<stdoi.h>
 int main()
 {
-	printf("im first version");
+	printf("im git_learing ");
 	return 0;
 }
